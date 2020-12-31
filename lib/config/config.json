@@ -1,0 +1,7 @@
+{
+    "seqSociedad": "configuracionsede.\"sociedad_Id_seq\"",
+    "seqSede": "configuracionsede.\"sede_Id_seq\"",
+    "seqArea": "configuracionsede.\"area_Id_seq\"",
+    "seqAlmacen": "configuracionsede.\"almacen_Id_seq\"",
+    "seqConfigSunat": "configuracionsede.\"configsunat_Id_seq\""
+}
